@@ -32,7 +32,7 @@
 
 **¿Cómo nos podemos contactar?** Hay dos formas:
 
-- `📧 Portfolio` https://laura-lamprea.netlify.app
+- `💼 Portfolio` https://laura-lamprea.netlify.app
 - `💬 LinkedIn` https://www.linkedin.com/in/lauralamprea/
 - `📧 Email` laura.lampream@gmail.com 
 
